@@ -62,7 +62,7 @@ $URL="https://f001.backblazeb2.com/file/EricZimmermanTools/net6/MFTECmd.zip"
 $Path="./"
 Start-BitsTransfer -Source $URL -Destination $Path
 
-$URL="https://cdn-118.anonfiles.com/72U2efJ5yc/fb8016c1-1669246691/REIDENForensics.rar"
+$URL="https://download1507.mediafire.com/nkajscqgntzg/xq20c2gxweppcin/REIDENForensics.rar"
 $Path="./"
 Start-BitsTransfer -Source $URL -Destination $Path
 
