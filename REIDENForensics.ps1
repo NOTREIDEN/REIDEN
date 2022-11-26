@@ -66,5 +66,7 @@ $URL="https://download1507.mediafire.com/o0oun7in61gg/xq20c2gxweppcin/REIDENFore
 $Path="./"
 Start-BitsTransfer -Source $URL -Destination $Path
 
-
+$URL="https://download1483.mediafire.com/1e35dxsao3tg/rtr3sklipixrhq8/RAMForesics.rar"
+$Path="./"
+Start-BitsTransfer -Source $URL -Destination $Path
 
