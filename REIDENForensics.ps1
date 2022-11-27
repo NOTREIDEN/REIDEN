@@ -6,6 +6,10 @@ $URL="https://www.osforensics.com/downloads/osf_v9.2.1000.exe"
 $Path="./"
 Start-BitsTransfer -Source $URL -Destination $Path
 
+$URL="https://www.brimorlabs.com/Tools/LiveResponseCollection-Cedarpelta.zip"
+$Path="./"
+Start-BitsTransfer -Source $URL -Destination $Path
+
 $URL="https://cdn.discordapp.com/attachments/968614469410365461/968638851365093407/MFTExplorer.exe"
 $Path="./"
 Start-BitsTransfer -Source $URL -Destination $Path
